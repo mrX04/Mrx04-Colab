@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/33864995?s=460&u=4e7305e30bf9e91fd2563927870c9d63f7fc9cdc&v=4" align="right" height="50" width="50"/>
 
-# Colab Hacks [![Warning][Warning]](#Warning-Not-for-Cryptocurrency-Mining) [![License: MIT][License-Badge]](LICENSE.md)
+# Colab Hacks [![Warning][Warning]](#Warning-Not-for-Cryptocurrency-Mining)
 Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 
 Here is a brief about them all:
