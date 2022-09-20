@@ -48,7 +48,7 @@ Please note that using Colaboratory for cryptocurrency mining is disallowed enti
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
 [License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
 [RDP Issues]:           https://img.shields.io/github/issues/mrX04/Mrx04-Colab/Colab%20RDP?label=Issues
-[RDP Notebook]:         https://colab.research.google.com/github/mrX04/Mrx04-Colab/blob/master/Colab%20RDP/Colab%20RDP.ipynb
+[RDP Notebook]:         https://colab.research.google.com/github/mrX04/Mrx04-Colab/blob/master/Colab%20RDP/Colab_RDP.ipynb
 [SSH Issues]:           https://img.shields.io/github/issues/mrX04/Mrx04-Colab/Colab%20SSH?label=Issues
 [SSH Notebook]:         https://colab.research.google.com/github/mrX04/Mrx04-Colab/blob/master/Colab%20SSH/Colab%20SSH.ipynb
 [Torrent Issues]:       https://img.shields.io/github/issues/mrX04/Mrx04-Colab/Torrent%20Downloader?label=Issues
